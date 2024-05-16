@@ -1,0 +1,48 @@
+C:/C#/Proiect Atestat/bin/Debug/Data Base Atestat.mdf
+C:/C#/Proiect Atestat/bin/Debug/Data Base Atestat_log.ldf
+C:/C#/Proiect Atestat/bin/Debug/Proiect Atestat.exe.config
+C:/C#/Proiect Atestat/bin/Debug/Proiect Atestat.exe
+C:/C#/Proiect Atestat/bin/Debug/Proiect Atestat.pdb
+C:/C#/Proiect Atestat/obj/Debug/Proiect Atestat.csprojAssemblyReference.cache
+C:/C#/Proiect Atestat/obj/Debug/Proiect_Atestat.Form1.resources
+C:/C#/Proiect Atestat/obj/Debug/Proiect_Atestat.Properties.Resources.resources
+C:/C#/Proiect Atestat/obj/Debug/Proiect Atestat.csproj.GenerateResource.cache
+C:/C#/Proiect Atestat/obj/Debug/Proiect Atestat.csproj.CoreCompileInputs.cache
+C:/C#/Proiect Atestat/obj/Debug/Proiect Atestat.exe
+C:/C#/Proiect Atestat/obj/Debug/Proiect Atestat.pdb
+C:/Users/Daniel/Desktop/Proiect Atestat/bin/Debug/Data Base Atestat.mdf
+C:/Users/Daniel/Desktop/Proiect Atestat/bin/Debug/Data Base Atestat_log.ldf
+C:/Users/Daniel/Desktop/Proiect Atestat/bin/Debug/Proiect Atestat.exe.config
+C:/Users/Daniel/Desktop/Proiect Atestat/bin/Debug/Proiect Atestat.exe
+C:/Users/Daniel/Desktop/Proiect Atestat/bin/Debug/Proiect Atestat.pdb
+C:/Users/Daniel/Desktop/Proiect Atestat/obj/Debug/Proiect Atestat.csprojAssemblyReference.cache
+C:/Users/Daniel/Desktop/Proiect Atestat/obj/Debug/Proiect_Atestat.Form1.resources
+C:/Users/Daniel/Desktop/Proiect Atestat/obj/Debug/Proiect_Atestat.Properties.Resources.resources
+C:/Users/Daniel/Desktop/Proiect Atestat/obj/Debug/Proiect Atestat.csproj.GenerateResource.cache
+C:/Users/Daniel/Desktop/Proiect Atestat/obj/Debug/Proiect Atestat.csproj.CoreCompileInputs.cache
+C:/Users/Daniel/Desktop/Proiect Atestat/obj/Debug/Proiect Atestat.exe
+C:/Users/Daniel/Desktop/Proiect Atestat/obj/Debug/Proiect Atestat.pdb
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/bin/Debug/Data Base Atestat.mdf
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/bin/Debug/Data Base Atestat_log.ldf
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/bin/Debug/Proiect Atestat.exe.config
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/bin/Debug/Proiect Atestat.exe
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/bin/Debug/Proiect Atestat.pdb
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/obj/Debug/Proiect Atestat.csprojAssemblyReference.cache
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/obj/Debug/Proiect_Atestat.Form1.resources
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/obj/Debug/Proiect_Atestat.Properties.Resources.resources
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/obj/Debug/Proiect Atestat.csproj.GenerateResource.cache
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/obj/Debug/Proiect Atestat.csproj.CoreCompileInputs.cache
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/obj/Debug/Proiect Atestat.exe
+C:/Users/Daniel/Desktop/altele/Proiect Atestat/obj/Debug/Proiect Atestat.pdb
+/Volumes/KINGSTON/Atestat/Proiect Atestat/bin/Debug/Data Base Atestat.mdf
+/Volumes/KINGSTON/Atestat/Proiect Atestat/bin/Debug/Data Base Atestat_log.ldf
+/Volumes/KINGSTON/Atestat/Proiect Atestat/bin/Debug/Proiect Atestat.exe.config
+/Volumes/KINGSTON/Atestat/Proiect Atestat/bin/Debug/Proiect Atestat.exe
+/Volumes/KINGSTON/Atestat/Proiect Atestat/bin/Debug/Proiect Atestat.pdb
+/Volumes/KINGSTON/Atestat/Proiect Atestat/obj/Debug/Proiect Atestat.csproj.AssemblyReference.cache
+/Volumes/KINGSTON/Atestat/Proiect Atestat/obj/Debug/Proiect_Atestat.Form1.resources
+/Volumes/KINGSTON/Atestat/Proiect Atestat/obj/Debug/Proiect_Atestat.Properties.Resources.resources
+/Volumes/KINGSTON/Atestat/Proiect Atestat/obj/Debug/Proiect Atestat.csproj.GenerateResource.cache
+/Volumes/KINGSTON/Atestat/Proiect Atestat/obj/Debug/Proiect Atestat.csproj.CoreCompileInputs.cache
+/Volumes/KINGSTON/Atestat/Proiect Atestat/obj/Debug/Proiect Atestat.exe
+/Volumes/KINGSTON/Atestat/Proiect Atestat/obj/Debug/Proiect Atestat.pdb
